@@ -3,7 +3,7 @@ title: |
   <center> University of Edinburgh, School of Mathematics </center>
   <center> Incomplete Data Analysis, 2023/2024 </center>
   <center> Assessment---My Solution </center>
-author: "Billy Ding"
+author: "Yanfu Ding"
 output: 
   pdf_document:
     latex_engine: xelatex
