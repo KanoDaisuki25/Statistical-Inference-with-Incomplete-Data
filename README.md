@@ -29,7 +29,7 @@ This repo contains the analysis and R implementations for an assessment on **Inc
 - **R Libraries**: `mice` (Multiple Imputation), `maxLik` (Optimisation), `ggplot2`.
 
 ## Repo Structure
-- `code/`: `.Rmd` files containing the analysis and code.
-* `data/`: Datasets (`.Rdata`) used for the simulation and EM algorithm tasks.
-* `docs/`: Final report and problem statements.
+- `/code`: `.Rmd` files containing the analysis and code.
+* `/data`: Datasets (`.Rdata`) used for the simulation and EM algorithm tasks.
+* `/docs`: Final report and problem statements.
 
